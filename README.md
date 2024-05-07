@@ -2,7 +2,9 @@
 
 ### By Ashley Borjon 
 
-Summary Goes Here 
+
+ADHD impacts a child’s academic, social, and emotional functioning. The effective management of behavioral concerns at the school level is key for children who are diagnosed with ADHD and can impact the child’s academic outcomes. To best understand the decision-making process, research on parental perceptions will shed light on barriers and challenges that are faced by students and their families. Students who have ADHD experience stigmas related to their diagnosis. According to Daley and Rapport-Schlichtmann (2014), stigmatization experiences play a crucial role in the “developmental and academic experiences of individuals who perceive their group memberships to be the reason for stereotyping and prejudice.” (2014) It is this stigma that can bring differing experiences for students with the diagnosis. The literature supports that there are stigmas, so I want to look at when the consequences of those stigmas begin.
+My independent variable is contact with families while my dependent variables are ADHD diagnosis, taking ADHD Medication, and race. The results support my hypotheses that children with ADHD experience higher contact with the school and their parents. They experience more behavioral management issues at school due to diagnosis. When grouping kids by whether or not they receive medication for treatment, I seperated them by those that are diagnosed then further seperated by those that take medication for diagnosis. The regression coefficient supports this hypotheses because whil a child with ADHD experiences more cnotact with parents regarding behavioral management, race also plays a role in the number of times that families are contacte. Though, I was not really able to see how ADHD medication use affects contact by race; I think with different graphs it may be worth looking into further. 
 
 **Data** 
 - https://www.census.gov/data-tools/demo/uccb/nschdict?s_keyword=&s_year=2022&s_variablelist=ACE1,ACE10,ACE11,ADDTREAT,C_AGE_YEARS,C_K2Q10,C_K2Q14,C_K2Q23,C_RACE_R,K2Q31A,K2Q31B,K2Q31C,K2Q31D,K7Q02R_R,K7Q04R_R (Codebook - Variable Definitions) 
